@@ -35,3 +35,5 @@ Error Handling & Feedback The app provides visual feedback using st.warning() if
 OUTPUT:
 
 <img width="769" height="835" alt="Image" src="https://github.com/user-attachments/assets/5d798f4a-38bb-47dd-af1b-2108d339bd17" />
+
+<img width="803" height="882" alt="Image" src="https://github.com/user-attachments/assets/ac66af40-60ee-4541-9f9f-4ac8c64c35ba" />
